@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/snapchat-clone/static/css/main.8ba91976.chunk.css",
-    "main.js": "/snapchat-clone/static/js/main.ea75bb83.chunk.js",
-    "main.js.map": "/snapchat-clone/static/js/main.ea75bb83.chunk.js.map",
+    "main.js": "/snapchat-clone/static/js/main.f73194a8.chunk.js",
+    "main.js.map": "/snapchat-clone/static/js/main.f73194a8.chunk.js.map",
     "runtime-main.js": "/snapchat-clone/static/js/runtime-main.f6d66752.js",
     "runtime-main.js.map": "/snapchat-clone/static/js/runtime-main.f6d66752.js.map",
     "static/js/2.53d3629c.chunk.js": "/snapchat-clone/static/js/2.53d3629c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f6d66752.js",
     "static/js/2.53d3629c.chunk.js",
     "static/css/main.8ba91976.chunk.css",
-    "static/js/main.ea75bb83.chunk.js"
+    "static/js/main.f73194a8.chunk.js"
   ]
 }
