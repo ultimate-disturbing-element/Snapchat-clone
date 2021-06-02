@@ -12,7 +12,7 @@ const Chat = ({id,username,timestamp,read,imageUrl,profilePic}) => {
 const dispatch = useDispatch();
 const history = useHistory();
     const open = () => {
-        if(read){
+        if(!read){
             dispatch(selectImage(imageUrl));
             db.collection('posts').doc(id).set({
                 read:true,
