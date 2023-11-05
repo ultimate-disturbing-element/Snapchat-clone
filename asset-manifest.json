@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/snapchat-clone/static/css/main.c6e084a0.css",
-    "main.js": "/snapchat-clone/static/js/main.e2e10893.js",
+    "main.js": "/snapchat-clone/static/js/main.d43a7041.js",
     "index.html": "/snapchat-clone/index.html",
     "main.c6e084a0.css.map": "/snapchat-clone/static/css/main.c6e084a0.css.map",
-    "main.e2e10893.js.map": "/snapchat-clone/static/js/main.e2e10893.js.map"
+    "main.d43a7041.js.map": "/snapchat-clone/static/js/main.d43a7041.js.map"
   },
   "entrypoints": [
     "static/css/main.c6e084a0.css",
-    "static/js/main.e2e10893.js"
+    "static/js/main.d43a7041.js"
   ]
 }
